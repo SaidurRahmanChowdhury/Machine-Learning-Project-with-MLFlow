@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Machine-Learning-Project-with-MLFlow/mlruns/0/449d3e7a19df45ad8bd0bba39f5ff607/artifacts
+end_time: 1695826900353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 449d3e7a19df45ad8bd0bba39f5ff607
+run_name: victorious-perch-424
+run_uuid: 449d3e7a19df45ad8bd0bba39f5ff607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695826889077
+status: 3
+tags: []
+user_id: User
